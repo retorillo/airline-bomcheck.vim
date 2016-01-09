@@ -22,7 +22,7 @@ git clone https://github.com/retorillo/airline-bomcheck.vim.git $home/vimfiles/b
 ## Options
 
 ```vimL
-g:airline#extensions#bomcheck#symbol = "Your custom symbol or message"
+let g:airline#extensions#bomcheck#symbol = "Your custom symbol or message"
 ```
 
 ## License
